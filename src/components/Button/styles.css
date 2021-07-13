@@ -1,0 +1,14 @@
+.stopwatch-btn{
+  position: center;
+  width: 8rem;
+  height: 2rem;
+  border-radius: 1rem;
+  background-color: floralwhite;
+  font-weight: bold;
+  margin: 1rem;
+  font-size: 1rem;
+}
+.stopwatch-btn:hover{
+  background-color: black;
+  color:white;
+}
