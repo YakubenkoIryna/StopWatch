@@ -65,9 +65,9 @@ const App = () => {
       }
     },
     handleReset: () => {
-      if (button === 'Start') {
+      if ( time === 0 ) {
         setTime(0);
-      } else if (button === 'Stop') {
+      } else{
         setTime(0);
         setWatch(true);
       }
